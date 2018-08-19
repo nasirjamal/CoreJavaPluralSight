@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46fef5a0-d533-400a-aa94-6c69b0704e3b" name="Default" comment="" />
+    <list default="true" id="46fef5a0-d533-400a-aa94-6c69b0704e3b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/pluralsight/pluralsightdemo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pluralsight/pluralsightdemo/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/pluralsight/pluralsightdemo/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
-              <caret line="11" column="110" selection-start-line="11" selection-start-column="110" selection-end-line="11" selection-end-column="110" />
+              <caret line="11" column="108" selection-start-line="11" selection-start-column="108" selection-end-line="11" selection-end-column="108" />
             </state>
           </provider>
         </entry>
@@ -186,12 +188,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534654615397</updated>
-      <workItem from="1534654624666" duration="1800000" />
+      <workItem from="1534654624666" duration="2141000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1800000" />
+    <option name="totallyTimeSpent" value="2141000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -251,7 +253,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/pluralsight/pluralsightdemo/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="11" column="110" selection-start-line="11" selection-start-column="110" selection-end-line="11" selection-end-column="110" />
+          <caret line="11" column="108" selection-start-line="11" selection-start-column="108" selection-end-line="11" selection-end-column="108" />
         </state>
       </provider>
     </entry>

@@ -9,7 +9,7 @@ public class Main {
             System.out.println("\n-----------------------------------------------------------------------------");
             System.out.println("In Main...");
             System.out.println("Plural Sight Package...");
-            System.out.println("--------------------------------------------------------------------------------");
+            System.out.println("------------------------------------------------------------------------------");
             System.out.println("1. Conversion");
             System.out.println("2. Conditional Logic");
             System.out.println("3. Loops");
