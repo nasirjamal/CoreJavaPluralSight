@@ -8,7 +8,7 @@ public class Loops
     {
         System.out.println("While Loop Demo, Factorial of "+num1);
         int fact = 1;
-        while (num1 > 1) {
+        while (num1 >1) {
             fact *= num1;
             num1 -= 1;
         }

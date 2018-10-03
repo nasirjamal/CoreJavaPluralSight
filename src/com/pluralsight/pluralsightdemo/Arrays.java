@@ -10,6 +10,14 @@ public class Arrays {
             a1[i] = i;
         }
         for (i=0; i<a1.length;i++)
-        System.out.print ("   a["+i+"]= "+a1[i]);
+        {
+            System.out.print("   a[" + i + "]= " + a1[i]);
+        }
+        System.out.println("\n");
+        for (int j:a1)
+        {
+            System.out.print ("   a["+j+"]= "+a1[j]);
+        }
     }
+
 }

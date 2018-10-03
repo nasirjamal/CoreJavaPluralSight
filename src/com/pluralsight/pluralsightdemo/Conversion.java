@@ -10,7 +10,7 @@ public class Conversion {
         double doubleVal=4.0d;
         byte byteVal=7;
         short shortVal=7;
-        long longVal=5;
+        long longVal=30;
 
         short result1= (short)longVal;
         long result2= (short) byteVal-longVal;
